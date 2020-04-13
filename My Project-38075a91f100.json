@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "stellar-shard-255523",
+  "private_key_id": "38075a91f1005ed4c661af64f3f3895b8a042117",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC9jpAlu3A0i/fs\nq6UZReF/IDGcv7LNi5iSph/VKnB4hTY6WRU3SvI3pp6hxfb5DMHWlAPcqPjGTdYw\n07Tmo9Pvemhw258UP2Q6yLl0TNUjBM+19z3l9KiPKtzI5IThQ4hwY7wMKPiaWa8N\n/AruPsAn3rE224UXPbSaIQIkjOVZnJug5R5aHvJ3ecH7Rfw+95LV63MFyKV+Cbn0\ny2VbRr+FBDAd7bnxXGSjaesEIkz9nqDx3ZRhVXl7H7EfL718qGdL3I9BDfYtUXve\n02CQ5EdqwEfbNq7/QDPyFwMRlNWesMCR9gUFG5Mym+17YT0gaT6z3do9mvVmp+sV\nTZmtNaX5AgMBAAECggEAHjaxBzKfKeD9fX3GbQbUcHzjK4bqqxSLFyTfggynrK4e\n/KHiXdPWU8R9GHADc6Ly6o7hJrTQIluZvmKgPPrz9wHdz89Rxdps0WnZFY6Bknlb\n2jc0aIjcrSU519OE0pr/Dlr3SEDnj0KoQmRgIaVi33gBaysGRbQSK1cDjmveyq+D\nbO3C7wUSxiHykjzR2OpcrKZdazuFDW3VZ4bQ3P5BgGEaa8EJka7BsiVKxp98NlSF\nstSwVoSwYACpyQ/KxA5oMf52I3XYeZHrMJyxiXN+DIxgaRyYURWtYySvAHWgEUvl\nqV4dchW2cAtvqNt5+0TiaCGLnpLhRaWjCQhWEkwT+QKBgQDdxwORjntoukh0LVSa\nSAJ8Dx2cQPCLVOG2k3XU4XWoWpS799oMGxU5asl2c6K6k4DbYu3QPBrP7iI7ROud\nGoa5CzZmYeLeDH0TmCp8pq065DsIt1cgu9AsuJw4NcrL5Jx6+zJU5019wWL2K/h7\nUhpEJsemrdpfNjbzjmmLXuq6swKBgQDazrnNkqKpLSv+QA/3HuYNPjnEGr4eKBr0\nfuJfOLLiwRbqM9BmQkv8yGjZ1FPIL/e8dSVPUMcENau10pTOx12eXLfNKyPwlpnE\nmvd0v2aOQ7Q6QFNjxrJ6x4U6lRh/F77qPrEXe2Sw3x1tbTsav3wtc6ZPAaYGXoqJ\nFP9tebciowKBgHrllt+pQk/1ssLWf+SC9QWEZtc40VOUtQO00X4ndkjV8Uf8gBNn\nSqqnt35xdALKTITGXJyhQgZpowSPG7XShkeyo/G2Wr7L0t/x2dF7l9FjuicJWjnk\neebeYotvm7LDO8eWvfx4tON0L//Uu/yysaWEi+ycuL88TtVG3MwDzDWrAoGBAIeN\n1KwXsO/wDTYpR/rHyKvhpfXov2l9XR2lUea+AIzcJK8ZRH1lix/ipJp2oST/GpJF\nXMTjfTgNbABrokbsWgJW3IOdu1k8Y6zaeH16ajWumgQQf9jrav0HiHE/lvp9oogK\nKLosdrfgsaFuL1Sl1m9uG1UM52dAwMCmIowXAK7TAoGBALMhx+SMISLW7rjPUPRl\nKOVO68KPieBIDFD3zpBIjoO8WbfBvbVjco3EG3JydIfR15hYzaCydpXEhod/NbQE\nMf6HwRm5pQzt9ypJ0tfyOpXXRFl7eKrp67JRtw2bv90SjPmaSkMQO2gUEI+94cEy\n19pJ1k4RLSW1s0XROPpMICWb\n-----END PRIVATE KEY-----\n",
+  "client_email": "sss-745@stellar-shard-255523.iam.gserviceaccount.com",
+  "client_id": "112799058526710957502",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sss-745%40stellar-shard-255523.iam.gserviceaccount.com"
+}

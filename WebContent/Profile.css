@@ -1,0 +1,106 @@
+@charset "UTF-8";
+
+.topbar .box {  
+	position: relative;
+	width:100%;
+	height:100px;
+	left: 5%;
+	display:table;  
+} 
+.topbar .box .box-row {  
+	display:table-row; 
+}  
+.topbar .box .box-cell {  
+	display:table-cell;  
+	width: 33.3%; 
+	height: 100px;
+} 
+
+.topbar .box .box-cell .box2 {
+	position: relative;
+	margin-left: 20px;
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+
+.topbar .box .box-cell .box3 {
+	margin-left: 300px;
+}
+
+.main .box2 {  
+	position: relative;
+	width:100%;
+	height:80%;
+	left: 5%;
+	display:table;  
+} 
+.main .box2 .box-row2 {  
+	display:table-row; 
+}  
+.main .box2 .box-cell2 {  
+	display:table-cell;  
+	/* width: 50%;  */
+}
+
+.main .box2 .box-cell2 .box1 {
+	width: 25%;
+}
+
+.main .box2 .box-cell2 .box2 {
+	width: 70%;
+}
+
+#logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	margin-bottom: auto;
+	position: relative;
+	width: 200px;
+	height: 200px;
+	float: left;
+	border-radius: 50%;
+}
+
+#username {
+	position: absolute;
+	font-style: italic;
+	font-size: 50px;
+	font-weight: bold;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	margin-top: 100px;
+}
+
+h1 {
+	font-style: italic;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+#signout {
+	position: absolute;
+	color: white;
+	font-size: 30px;
+	background-color: lightblue;
+	margin-top: 120px;
+	margin-bottom: 50px;
+	margin-left: 100px;
+}
+
+#ta {
+	color: black;
+	font-size: 30px;
+}
+#stats {
+	color: grey;
+}
+
+#block {
+	background-color: lightblue;
+}
+
+
+
+
+
